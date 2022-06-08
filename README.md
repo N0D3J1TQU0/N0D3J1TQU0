@@ -2,7 +2,7 @@
 :wave: Hey! I'm an astronomeer currently in the PhD program at Universidad de La Serena. I have a Master degree in extragalactic astronomy where I studied spectroscopic data of galaxy clusters. In parallel, I'm working on projects to develop software for spectroscopic data reduction.
 
 ### 📫 How to reach me
-- email: hprado@alumnosuls.cl
+- email: hugo.prado@userena.cl
 - phone: (+56)974251746
 - location: Departamento de Astronomía, Universidad de La Serena - Avda. Juan Cisternas 1200, La Serena, Chile
 
