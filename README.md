@@ -1,5 +1,5 @@
 # Hugo Prado-@N0D3J1TQU0
-:wave: Hey! I'm an astronomeer currently in the PhD program at Universidad de La Serena. I have a Master degree in extragalactic astronomy where I studied spectroscopic data of galaxy clusters. In parallel, I'm working on projects to develop software for spectroscopic data reduction.
+:wave: Hey! I'm an astronomeer currently in the PhD program at Universidad de La Serena. I have a Master degree in extragalactic astronomy where I studied spectroscopic data of galaxy clusters. In parallel, I've been on projects to develop software for spectroscopic data reduction. I currently work on machine learning applications to obtain inferencial models for extragalactic photometry-spectroscopy data.
 
 ### 📫 How to reach me
 - email: hugo.prado@userena.cl
